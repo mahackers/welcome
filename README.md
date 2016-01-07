@@ -6,7 +6,7 @@ science with the goal of improving access to computing education.
 ## Teachers
 * Jack Beasley - jack.beasley@gmail.com
 * Kyle Kranen - kyle.kranen@gmail.com
-* Alex Kim - 
+* Alex Kim - alex.kim.1337@gmail.com
 
 ## Class Communication
 We will use a Facebook group as our primary means of communicating.
