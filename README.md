@@ -30,7 +30,7 @@ compile step. We will then explore loops, math, and object oriented programming
 through a series of projects.
 
 ## Course Workflow
-1. Fork assignment repository in [github.com/mahackers](https://github.com/mahackers) or click the github classroom link provided.
+1. Fork assignment repository in [github.com/mahackers](https://github.com/mahackers) or at [github classroom](https://classroom.github.com/classrooms/7477180-mahackers).
 1. Clone the forked repository to your computer using `git clone URL`
 1. Read the `README.md` file which contains the project description and
    instructions. (We will also go over each assignment in class)
